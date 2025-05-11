@@ -1,19 +1,19 @@
 {
   "usd_usdt": {
     "value": "82400",
-    "change": 1000,
+    "change": 0,
     "timestamp": 1746891605,
     "date": "1404-02-20 20:10:05"
   },
   "usd_sell": {
     "value": "83450",
-    "change": 1450,
+    "change": 0,
     "timestamp": 1746894400,
     "date": "1404-02-20 20:56:40"
   },
   "usd_buy": {
     "value": "83050",
-    "change": 1450,
+    "change": 0,
     "timestamp": 1746894400,
     "date": "1404-02-20 20:56:40"
   }
